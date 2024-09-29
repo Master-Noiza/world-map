@@ -51,19 +51,19 @@ mapDim.metersPerPixel = 10;  /* AM: Updated arbitrarily to make Silverbridge Lak
 mapDim.minzoom = 3/* AM: Added to match your tiling folders */
 mapDim.maxzoom = 8/* AM: Added to match your tiling folders */
 
-var mapLocation = "https://github.com/EdmundGelting/world-map/tree/main/map/{z}/{x}/{y}.png"; /* AM: Edited to point to your tile locations */
+var mapLocation = "/map/{z}/{x}/{y}.png"; /* AM: Edited to point to your tile locations */
 var locationsList = [
-"https://github.com/EdmundGelting/world-map/tree/main/locations/Locations.json"/* AM: I took the locations from your index.html code and moved them into a JSON file. Feel free to start with this file, but you'll need to put it in a location you can access and update (and then update this line to point to that location. To me, this file-based approach is easier to maintain and update... */
+"/locations/Locations.json"/* AM: I took the locations from your index.html code and moved them into a JSON file. Feel free to start with this file, but you'll need to put it in a location you can access and update (and then update this line to point to that location. To me, this file-based approach is easier to maintain and update... */
 ];
 
 var useCustomMarkerIcon = true;
 
 // The keys in the map below should map to the "marker-group" property of the GeoJSON file in which locations are defined.
 var customMarkers = {
-"Default" : "https://github.com/EdmundGelting/world-map/tree/main/icons/cityDwarves.png",/* AM: Arbitrarily picked Dwarves as the default.  Edit as you please. */
-"Dwarven City" : "https://github.com/EdmundGelting/world-map/tree/main/icons/cityDwarves.png",/* AM: Updated to point to your dwarven city icon for anyhing in the location file in the marker group "Dwarven City". */
-"Druid City" : "https://github.com/EdmundGelting/world-map/tree/main/icons/cityDruid.png",/* AM: Updated to point to your dwarven city icon for anyhing in the location file in the marker group "Druid City". */
-"Tundra City" : "https://github.com/EdmundGelting/world-map/tree/main/icons/cityHalflings.png"/* AM: Updated to point to your dwarven city icon for anyhing in the location file in the marker group "Druid City". */
+"Default" : "/icons/cityDwarves.png",/* AM: Arbitrarily picked Dwarves as the default.  Edit as you please. */
+"Dwarven City" : "/icons/cityDwarves.png",/* AM: Updated to point to your dwarven city icon for anyhing in the location file in the marker group "Dwarven City". */
+"Druid City" : "/icons/cityDruid.png",/* AM: Updated to point to your dwarven city icon for anyhing in the location file in the marker group "Druid City". */
+"Tundra City" : "/cityHalflings.png"/* AM: Updated to point to your dwarven city icon for anyhing in the location file in the marker group "Druid City". */
 }
 
 var map = fantasyMap(mapLocation, mapDim, locationsList, useCustomMarkerIcon, customMarkers);
