@@ -16,7 +16,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -1568,936
+                    845,1155
                 ]
             }
         },
@@ -28,14 +28,52 @@
                 "stroke": "#555555",
                 "marker-size": "medium",
                 "marker-symbol": "",
-                "popup-text": "<a href='https://master-noiza.github.io/the-wiki/3.-The-Races/3.-The-Markhalyr/2.-Mechanics'><strong>The Tower of Smoke</strong> - Markhalyri Stronghold</a>",
+                "popup-text": "<a href='https://master-noiza.github.io/the-wiki/3.-The-Races/3.-The-Markhalyr/2.-Mechanics'><strong>Clan Drazhmir</strong> - Markhalyri Stronghold</a>",
                 "marker-group": "Dwarven City",
                 "ID": "1"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                   -2184,-248
+                   617,1066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "popup-text": "<a href='https://master-noiza.github.io/the-wiki/3.-The-Races/2.-The-Monkhalyr/2.-Mechanics'><strong>Arkhold</strong> - Monkhalyri Fortress-City</a>",
+                "marker-group": "Human City",
+                "ID": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   1007,895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7e7e7e",
+                "fill": "#7e7e7e",
+                "stroke": "#555555",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "popup-text": "<a The Ruins of Zhar-Kaith</a>",
+                "marker-group": "Ruin",
+                "ID": "1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                   975,944
                 ]
             }
         },
@@ -54,7 +92,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                   782,2245
+                   923,1250
                 ]
             }
         }
