@@ -102,7 +102,7 @@ function setInitialLocation(map) {
         map.setView([passedLat, passedLng], passedZoom);
     } else {
         console.log("No requested location.");
-        map.setView([-38, 35], 6);
+        map.setView([-38, 35], 8);
     }
 }
 
