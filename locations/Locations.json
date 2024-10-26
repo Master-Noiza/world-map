@@ -9,7 +9,7 @@
                 "stroke": "#555555",
                 "marker-size": "medium",
                 "marker-symbol": "",
-                "popup-text": "<a href='https://edmundgelting.github.io/the-wiki/2.-The-Races/4.-The-Venthalyr'><strong>The Thicket</strong> - Venthalyri Satelite Forest</a>",
+                "popup-text": "<a href='https://master-noiza.github.io/the-wiki/3.-The-Races/4.-The-Venthalyr/2.-Mechanics'><strong>The Thicket</strong> - Venthalyri Satelite Forest</a>",
                 "marker-group": "Druid City",
                 "ID": "1"
             },
@@ -28,7 +28,7 @@
                 "stroke": "#555555",
                 "marker-size": "medium",
                 "marker-symbol": "",
-                "popup-text": "<a href='https://edmundgelting.github.io/the-wiki/2.-The-Races/3.-The-Markhalyr'><strong>The Tower of Smoke</strong> - Markhalyri Stronghold</a>",
+                "popup-text": "<a href='https://master-noiza.github.io/the-wiki/3.-The-Races/3.-The-Markhalyr/2.-Mechanics'><strong>The Tower of Smoke</strong> - Markhalyri Stronghold</a>",
                 "marker-group": "Dwarven City",
                 "ID": "1"
             },
@@ -47,7 +47,7 @@
                 "stroke": "#555555",
                 "marker-size": "medium",
                 "marker-symbol": "",
-                "popup-text": "<a href='https://edmundgelting.github.io/the-wiki/2.-The-Races/5.-The-Anthalyr'><strong>The Boiling Ponds</strong> - Anthalyri Settlement</a>",
+                "popup-text": "<a href='https://master-noiza.github.io/the-wiki/3.-The-Races/5.-The-Anthalyr/2.-Mechanics'><strong>The Boiling Ponds</strong> - Anthalyri Settlement</a>",
                 "marker-group": "Tundra City",
                 "ID": "1"
             },
