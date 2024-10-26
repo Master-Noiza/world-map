@@ -10,7 +10,7 @@
                 "marker-size": "medium",
                 "marker-symbol": "",
                 "popup-text": "<a href='https://master-noiza.github.io/the-wiki/3.-The-Races/4.-The-Venthalyr/2.-Mechanics'><strong>The Thicket</strong> - Venthalyri Satelite Forest</a>",
-                "marker-group": "Druid City",
+                "marker-group": "Venthalyr",
                 "ID": "1"
             },
             "geometry": {
@@ -29,7 +29,7 @@
                 "marker-size": "medium",
                 "marker-symbol": "",
                 "popup-text": "<a href='https://master-noiza.github.io/the-wiki/3.-The-Races/3.-The-Markhalyr/2.-Mechanics'><strong>Clan Drazhmir</strong> - Markhalyri Stronghold</a>",
-                "marker-group": "Dwarven City",
+                "marker-group": "Markhalyr",
                 "ID": "1"
             },
             "geometry": {
@@ -48,13 +48,13 @@
                 "marker-size": "medium",
                 "marker-symbol": "",
                 "popup-text": "<a href='https://master-noiza.github.io/the-wiki/3.-The-Races/2.-The-Monkhalyr/2.-Mechanics'><strong>Arkhold</strong> - Monkhalyri Fortress-City</a>",
-                "marker-group": "Human City",
+                "marker-group": "Monkhalyr",
                 "ID": "1"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                   1007,895
+                   1025,876
                 ]
             }
         },
@@ -67,13 +67,13 @@
                 "marker-size": "medium",
                 "marker-symbol": "",
                 "popup-text": "<a The Ruins of Zhar-Kaith</a>",
-                "marker-group": "Ruin",
+                "marker-group": "Ruins",
                 "ID": "1"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                   975,944
+                   958,940
                 ]
             }
         },
@@ -86,7 +86,7 @@
                 "marker-size": "medium",
                 "marker-symbol": "",
                 "popup-text": "<a href='https://master-noiza.github.io/the-wiki/3.-The-Races/5.-The-Anthalyr/2.-Mechanics'><strong>The Boiling Ponds</strong> - Anthalyri Settlement</a>",
-                "marker-group": "Tundra City",
+                "marker-group": "Anthalyr",
                 "ID": "1"
             },
             "geometry": {
