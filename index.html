@@ -78,8 +78,9 @@ var customMarkers = {
 /* MEASURE: Modified to allow measurements. */
 		var map = fantasyMap(mapLocation, mapDim, locationsList, useCustomMarkerIcon, customMarkers).then(function(map) {
 			L.control.ruler().addTo(map);
+            		map.setView([986, 753], 8);
 		});
-		/* END MEASURE */
+        / END MEASURE */
 	
     </script>
   </body>
