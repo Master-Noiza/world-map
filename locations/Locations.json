@@ -9,7 +9,7 @@
                 "stroke": "#555555",
                 "marker-size": "medium",
                 "marker-symbol": "",
-                "popup-text": "<a href='https://master-noiza.github.io/the-wiki/3.-The-Races/4.-The-Venthalyr/2.-Mechanics'><strong>The Thicket</strong> - Venthalyri Satelite Forest</a>",
+                "popup-text": "<a href='https://master-noiza.github.io/the-wiki/4.-The-Races/4.-The-Venthalyr/1.-Lore'><strong>The Thicket</strong> - Venthalyri Satelite Forest</a>",
                 "marker-group": "Venthalyr",
                 "ID": "1"
             },
@@ -28,7 +28,7 @@
                 "stroke": "#555555",
                 "marker-size": "medium",
                 "marker-symbol": "",
-                "popup-text": "<a href='https://master-noiza.github.io/the-wiki/3.-The-Races/3.-The-Markhalyr/2.-Mechanics'><strong>Clan Drazhmir</strong> - Markhalyri Stronghold</a>",
+                "popup-text": "<a href='https://master-noiza.github.io/the-wiki/4.-The-Races/3.-The-Markhalyr/1.-Lore'><strong>Clan Drazhmir</strong> - Markhalyri Stronghold</a>",
                 "marker-group": "Markhalyr",
                 "ID": "1"
             },
@@ -47,7 +47,7 @@
                 "stroke": "#555555",
                 "marker-size": "medium",
                 "marker-symbol": "",
-                "popup-text": "<a href='https://master-noiza.github.io/the-wiki/3.-The-Races/2.-The-Monkhalyr/2.-Mechanics'><strong>Arkhold</strong> - Monkhalyri Fortress-City</a>",
+                "popup-text": "<a href='https://master-noiza.github.io/the-wiki/2.-Atlas/1.-Settlements/Arkhold'><strong>Arkhold</strong> - Monkhalyri Fortress-City</a>",
                 "marker-group": "Monkhalyr",
                 "ID": "1"
             },
@@ -104,7 +104,7 @@
                 "stroke": "#555555",
                 "marker-size": "medium",
                 "marker-symbol": "",
-                "popup-text": "<a href='https://master-noiza.github.io/the-wiki/3.-The-Races/5.-The-Anthalyr/2.-Mechanics'><strong>The Boiling Ponds</strong> - Anthalyri Settlement</a>",
+                "popup-text": "<a href='https://master-noiza.github.io/the-wiki/4.-The-Races/5.-The-Anthalyr/2.-Mechanics'><strong>The Boiling Ponds</strong> - Anthalyri Settlement</a>",
                 "marker-group": "Anthalyr",
                 "ID": "1"
             },
