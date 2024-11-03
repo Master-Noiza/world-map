@@ -10,7 +10,7 @@
                 "marker-size": "medium",
                 "marker-symbol": "",
                 "popup-text": "<a href='https://master-noiza.github.io/the-wiki/4.-The-Races/4.-The-Venthalyr/1.-Lore'><strong>The Thicket</strong> - Venthalyri Satelite Forest</a>",
-                "marker-group": "Venthalyr",
+                "marker-group": "Venthalyr_Minor",
                 "ID": "1"
             },
             "geometry": {
@@ -67,7 +67,7 @@
                 "marker-size": "medium",
                 "marker-symbol": "",
                 "popup-text": "<a href='https://master-noiza.github.io/the-wiki/2.-Atlas/1.-Settlements/Respite'><strong>Respite</strong> - Monkhalyri Village</a>",
-                "marker-group": "Monkhalyr",
+                "marker-group": "Monkhalyr_Minor",
                 "ID": "1"
             },
             "geometry": {
